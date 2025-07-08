@@ -21,9 +21,3 @@
 # Future
 - Web development
 - Post university mathamatics self-study
-
-# FAQ
-## Will you post dotfiles?
-No
-## Why wont you post dotfiles?
-It's basically all stolen
