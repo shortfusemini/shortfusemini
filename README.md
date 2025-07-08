@@ -1,14 +1,29 @@
-# About
-- 
+# Regarding Me
+- Interested in computer science and operating systems.
+- Nonstandard productivity workflow enthusiast.
+- Considering pursuing a UNSW degree through the ADF.
 
-# What I do
-- 
+# Familiarity
+- Glyphic analysis
+- Subspacial configuration
+- Hypoglacial applications of asemia
+- Cuneiform tablet comprehension
 
-# What I should be doing instead
-- 
+# Past
+- LaTeX
+- Arch, NixOS
+
+# Present
+- Music production
+- Typst
+- Fedora
+
+# Future
+- Web development
+- Post university mathamatics self-study
 
 # FAQ
-## hello
-hi
-## ?
-ok
+## Will you post dotfiles?
+No
+## Why wont you post dotfiles?
+It's basically all stolen
