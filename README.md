@@ -1,7 +1,7 @@
 # Regarding Me
-- Interested in computer science and operating systems.
-- Nonstandard productivity workflow enthusiast.
-- Considering pursuing a UNSW degree through the ADF.
+- Level 1 OPSEC Crook
+- Sub-optimal productivity workflow enthusiast
+- Future ADF Lieutenant
 
 # Familiarity
 - Glyphic analysis
@@ -11,13 +11,13 @@
 
 # Past
 - LaTeX
-- Arch, NixOS
+- Arch, NixOS, Fedora
 
 # Present
 - Music production
 - Typst
-- Fedora
+- Debian, Gentoo
 
 # Future
 - Web development
-- Post university mathamatics self-study
+- Postgraduate mathematics
