@@ -19,5 +19,5 @@
 - Debian, Gentoo
 
 # Future
-- Web development
+- Full-stack development
 - Postgraduate mathematics
